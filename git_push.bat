@@ -2,7 +2,6 @@
 echo "DOCS PUSH BAT"
 
 echo "1. Move to working directory" 
-E:
 cd E:\桌面\专业学习\Linux_C_C++\Blog_warehouse
 
 echo "2. Start submitting code to the local repository"
